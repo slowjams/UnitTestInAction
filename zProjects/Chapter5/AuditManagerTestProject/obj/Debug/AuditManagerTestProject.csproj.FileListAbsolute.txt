@@ -1,0 +1,6 @@
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\AuditManagerTestProject\bin\Debug\AuditManagerTestProject.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\AuditManagerTestProject\bin\Debug\AuditManagerTestProject.pdb
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\AuditManagerTestProject\obj\Debug\AuditManagerTestProject.csprojAssemblyReference.cache
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\AuditManagerTestProject\obj\Debug\AuditManagerTestProject.csproj.CoreCompileInputs.cache
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\AuditManagerTestProject\obj\Debug\AuditManagerTestProject.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\AuditManagerTestProject\obj\Debug\AuditManagerTestProject.pdb

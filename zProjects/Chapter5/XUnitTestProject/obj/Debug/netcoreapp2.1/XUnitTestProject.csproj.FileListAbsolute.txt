@@ -1,0 +1,14 @@
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.deps.json
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.runtimeconfig.json
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.runtimeconfig.dev.json
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\bin\Debug\netcoreapp2.1\XUnitTestProject.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\bin\Debug\netcoreapp2.1\AuditManagerTestProject.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\bin\Debug\netcoreapp2.1\AuditManagerTestProject.pdb
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csprojAssemblyReference.cache
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csproj.CoreCompileInputs.cache
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.AssemblyInfoInputs.cache
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.AssemblyInfo.cs
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter5\XUnitTestProject\obj\Debug\netcoreapp2.1\XUnitTestProject.csproj.CopyComplete

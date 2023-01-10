@@ -1,0 +1,16 @@
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\ConsoleAppParameterizedTest.exe.config
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\ConsoleAppParameterizedTest.exe
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\ConsoleAppParameterizedTest.pdb
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\xunit.abstractions.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\xunit.assert.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\xunit.core.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\xunit.execution.desktop.dll
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\xunit.abstractions.xml
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\xunit.assert.xml
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\xunit.core.xml
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\bin\Debug\xunit.execution.desktop.xml
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\obj\Debug\ConsoleAppParameterizedTest.csprojAssemblyReference.cache
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\obj\Debug\ConsoleAppParameterizedTest.csproj.CoreCompileInputs.cache
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\obj\Debug\ConsoleAppParameterizedTest.csproj.CopyComplete
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\obj\Debug\ConsoleAppParameterizedTest.exe
+C:\zIT Study\zTextbooks\Unit Testing Principles, Practices, and Patterns\zProjects\Chapter3\ConsoleAppParameterizedTest\obj\Debug\ConsoleAppParameterizedTest.pdb
